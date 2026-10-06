@@ -1,0 +1,10 @@
+{
+  "departments": [
+    { "slug": "ace",        "label": "Ace" },
+    { "slug": "clutch",     "label": "Clutch" },
+    { "slug": "whiff",      "label": "Whiff" },
+    { "slug": "lore",       "label": "Lore" },
+    { "slug": "noscope",    "label": "NoScope" },
+    { "slug": "uncensored", "label": "Uncensored" }
+  ]
+}

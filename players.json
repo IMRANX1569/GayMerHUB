@@ -1,0 +1,10 @@
+{
+  "players": [
+    { "name": "Atonu",  "photo": "assets/photos/atonu.jpg" },
+    { "name": "Zayeem", "photo": "assets/photos/zayeem.jpg" },
+    { "name": "Naveen", "photo": "assets/photos/naveen.jpg" },
+    { "name": "Areeb",  "photo": "assets/photos/areeb.jpg" },
+    { "name": "Joy",    "photo": "assets/photos/joy.jpg" },
+    { "name": "Saniat", "photo": "assets/photos/saniat.jpg" }
+  ]
+}
