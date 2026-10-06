@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GAMER HUB - Clips</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="dept-header">
+    <a class="back-link" href="main.html">&larr; back to hub</a>
+    <h1 id="deptTitle">Loading...</h1>
+  </div>
+
+  <div class="clip-grid" id="clipGrid"></div>
+  <p class="empty-note" id="emptyNote" style="display:none;">
+    এখানে এখনো কোনো ক্লিপ নেই। নিচের নিয়ম অনুযায়ী যোগ করো।
+  </p>
+
+  <div class="upload-box">
+    <strong>নিজের ক্লিপ যোগ করবে কিভাবে:</strong><br>
+    ১) তোমার video file (.mp4) এই folder-এ রাখো: <code>clips/&lt;department&gt;/</code><br>
+    ২) একই folder-এর <code>clips.json</code>-এ file-এর নাম লিখে দাও।<br>
+    ৩) GitHub-এ push করলেই clip নিজে থেকে এখানে দেখাবে।
+  </div>
+
+  <script src="js/department.js"></script>
+</body>
+</html>
